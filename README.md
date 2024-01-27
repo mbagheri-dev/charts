@@ -1,6 +1,6 @@
 # Fleetman Helm Chart
 
-This Helm chart deploys the Fleetman project on Kubernetes clusters.
+This Helm chart deploys the Fleetman microservice project on Kubernetes clusters.
 
 ## Prerequisites
 
